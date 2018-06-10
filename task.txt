@@ -1,1 +1,19 @@
-Ð´¼øÉÍ 2 20
+Shader "book/diffuse"{
+	Properties{
+		_Diffuse("Diffuse", Color) = (1, 1, 1, 1)
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+}
